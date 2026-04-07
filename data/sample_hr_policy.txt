@@ -1,0 +1,917 @@
+================================================================================
+                         APEX SOLUTIONS PVT. LTD.
+                    HUMAN RESOURCES POLICY HANDBOOK
+                          Version 3.0 | 2025
+================================================================================
+
+This handbook contains all official HR policies of Apex Solutions Pvt. Ltd.
+All employees are required to read, understand, and comply with these policies.
+This document supersedes all previous versions of the HR Policy Handbook.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TABLE OF CONTENTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  1.  Company Overview & Values
+  2.  Organizational Structure & Job Positions
+  3.  Recruitment & Onboarding
+  4.  Working Hours & Attendance
+  5.  Salary, Compensation & Payroll
+  6.  Probation Period Policy
+  7.  Leave Policy
+  8.  Performance Management
+  9.  Training & Development
+  10. Code of Conduct & Workplace Ethics
+  11. Dress Code Policy
+  12. Remote Work & Work From Home Policy
+  13. Travel & Expense Policy
+  14. Health, Safety & Wellness
+  15. Grievance & Disciplinary Policy
+  16. Termination, Resignation & Exit Policy
+  17. Confidentiality & Data Protection
+  18. Anti-Harassment & Equal Opportunity Policy
+  19. Benefits & Perquisites
+  20. Communication & IT Usage Policy
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 1: COMPANY OVERVIEW & VALUES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1.1 About Apex Solutions
+Apex Solutions Pvt. Ltd. is a technology and consulting firm founded in 2010,
+headquartered in Karachi, Pakistan, with branch offices in Lahore and Islamabad.
+The company specializes in software development, IT consulting, and digital
+transformation services.
+
+1.2 Mission Statement
+To deliver innovative, high-quality technology solutions that empower businesses
+to grow and succeed in the digital era.
+
+1.3 Core Values
+- Integrity: We act with honesty and transparency in everything we do.
+- Excellence: We strive for the highest standards in our work and service.
+- Collaboration: We believe the best outcomes emerge from teamwork.
+- Innovation: We encourage creative thinking and continuous improvement.
+- Respect: We treat every individual with dignity and fairness.
+
+1.4 Policy Applicability
+This handbook applies to all full-time employees, part-time employees, contract
+staff, and interns at Apex Solutions Pvt. Ltd. unless otherwise specified.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 2: ORGANIZATIONAL STRUCTURE & JOB POSITIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+2.1 Organizational Levels
+The company follows a five-tier organizational hierarchy:
+
+  Tier 1 – Executive Leadership
+  Tier 2 – Senior Management
+  Tier 3 – Mid-Level Management
+  Tier 4 – Junior/Associate Staff
+  Tier 5 – Support Staff & Interns
+
+2.2 Departments
+The company operates the following departments:
+- Engineering & Technology
+- Product Management
+- Sales & Business Development
+- Marketing & Communications
+- Human Resources
+- Finance & Accounts
+- Legal & Compliance
+- Customer Success
+- Operations & Administration
+
+2.3 Job Titles by Department
+
+ENGINEERING & TECHNOLOGY:
+  - Chief Technology Officer (CTO) — Tier 1
+  - VP of Engineering — Tier 2
+  - Engineering Manager — Tier 3
+  - Senior Software Engineer — Tier 3
+  - Software Engineer — Tier 4
+  - Junior Software Engineer — Tier 4
+  - QA Engineer — Tier 4
+  - DevOps Engineer — Tier 4
+  - UI/UX Designer — Tier 4
+  - Technical Intern — Tier 5
+
+PRODUCT MANAGEMENT:
+  - Chief Product Officer (CPO) — Tier 1
+  - Senior Product Manager — Tier 3
+  - Product Manager — Tier 4
+  - Associate Product Manager — Tier 4
+  - Business Analyst — Tier 4
+
+SALES & BUSINESS DEVELOPMENT:
+  - Chief Revenue Officer (CRO) — Tier 1
+  - VP of Sales — Tier 2
+  - Sales Manager — Tier 3
+  - Senior Sales Executive — Tier 4
+  - Sales Executive — Tier 4
+  - Business Development Representative — Tier 4
+
+HUMAN RESOURCES:
+  - Chief People Officer (CPO) — Tier 1
+  - HR Manager — Tier 3
+  - Senior HR Business Partner — Tier 3
+  - HR Business Partner — Tier 4
+  - HR Executive — Tier 4
+  - Recruitment Specialist — Tier 4
+  - HR Intern — Tier 5
+
+FINANCE & ACCOUNTS:
+  - Chief Financial Officer (CFO) — Tier 1
+  - Finance Manager — Tier 3
+  - Senior Accountant — Tier 4
+  - Accountant — Tier 4
+  - Finance Executive — Tier 4
+
+OPERATIONS & ADMINISTRATION:
+  - VP of Operations — Tier 2
+  - Operations Manager — Tier 3
+  - Office Administrator — Tier 4
+  - Receptionist — Tier 4
+  - Office Assistant — Tier 5
+
+2.4 Reporting Structure
+Every employee has a direct Line Manager (LM) and a dotted-line relationship
+with the HR Business Partner assigned to their department. Employees should
+direct day-to-day work queries to their LM and HR-related queries to their
+assigned HRBP.
+
+2.5 Promotions
+Promotions are based on performance ratings, tenure, skill assessments, and
+business need. Employees are eligible for promotion review after a minimum of
+12 months in their current role. Promotions are not automatic and must be
+approved by the department head and HR.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 3: RECRUITMENT & ONBOARDING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+3.1 Recruitment Process
+All hiring is managed by the HR department in collaboration with the hiring
+manager. The standard recruitment process is:
+
+  Step 1: Job requisition submitted by department head.
+  Step 2: HR posts the vacancy on approved job boards and internal portals.
+  Step 3: CV screening by HR Recruitment Specialist.
+  Step 4: Technical/aptitude assessment (if applicable).
+  Step 5: First interview with HR (behavioral/cultural fit).
+  Step 6: Second interview with department head or panel.
+  Step 7: Reference checks conducted by HR.
+  Step 8: Offer letter issued by HR upon approval.
+  Step 9: Offer acceptance and documentation.
+
+3.2 Internal Job Postings
+All open positions are first advertised internally for a minimum of 5 business
+days before external sourcing begins. Employees with at least 12 months of
+service are eligible to apply for internal positions.
+
+3.3 Employee Referrals
+Employees may refer candidates for open positions. A referral bonus of PKR 10,000
+is payable to the referring employee if the referred candidate is hired and
+completes 6 months of continuous employment.
+
+3.4 Onboarding
+New employees undergo a structured onboarding program:
+
+  Day 1:
+    - Welcome meeting with HR
+    - Office tour and workstation setup
+    - IT equipment issuance and system access
+    - Employee ID card and access badge issuance
+
+  Week 1:
+    - HR orientation: policies, benefits, and code of conduct
+    - Department introduction and team meetings
+    - IT security and data privacy training
+
+  Month 1:
+    - Buddy system: each new hire is assigned an onboarding buddy
+    - Role-specific training plan initiated by Line Manager
+    - 30-day check-in with HR
+
+  Month 3:
+    - Probation mid-point review with Line Manager
+    - 90-day check-in with HR
+
+3.5 Documents Required at Joining
+  - Original CNIC (Computerized National Identity Card) and 2 photocopies
+  - Educational certificates (originals for verification)
+  - Previous employment experience letters
+  - 2 passport-size photographs
+  - Bank account details for payroll
+  - Emergency contact information form
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 4: WORKING HOURS & ATTENDANCE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+4.1 Standard Working Hours
+The official working week at Apex Solutions is Monday to Friday.
+Standard office hours are 9:00 AM to 6:00 PM (local time), inclusive of a
+1-hour lunch break from 1:00 PM to 2:00 PM.
+Total working hours per day: 8 hours (excluding lunch break).
+Total working hours per week: 40 hours.
+
+4.2 Flexible Working Hours (Flextime)
+Employees in Tier 3 and above, and those in roles approved by HR, may opt for
+flexible start times between 8:00 AM and 10:00 AM, provided they complete
+their 8-hour workday and are available during core hours of 10:00 AM to 4:00 PM.
+Flextime arrangements must be approved in writing by the Line Manager and HR.
+
+4.3 Attendance Policy
+- Employees are required to mark attendance via the biometric system upon arrival
+  and departure each day.
+- Failure to mark attendance without a valid reason will be recorded as
+  Absent Without Leave (AWOL) for that day.
+- Three consecutive AWOL days may result in termination of employment.
+- Late arrival is defined as arriving more than 10 minutes after the scheduled
+  start time. Three late arrivals in a calendar month equal one absence.
+
+4.4 Overtime
+Overtime is work performed beyond 8 hours per day or 40 hours per week.
+Overtime must be pre-approved by the Line Manager.
+- Tier 4 and Tier 5 employees: Compensated at 1.5x the hourly rate.
+- Tier 3 employees: Compensatory time off (CTO) granted on a 1:1 basis.
+- Tier 1 and Tier 2 employees: Overtime is considered part of their overall
+  compensation package and is not separately remunerated.
+
+4.5 Public Holidays
+The company observes all public holidays declared by the Government of Pakistan.
+The HR department publishes the official holiday calendar at the beginning of
+each year. Typically, employees receive 14–16 paid public holidays annually.
+
+4.6 Weekend Work
+Saturday and Sunday are non-working days. In exceptional cases, employees
+required to work on weekends will receive compensatory time off or overtime pay
+as per Section 4.4. Weekend work requires prior approval from the department head.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 5: SALARY, COMPENSATION & PAYROLL
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+5.1 Salary Structure
+All salaries are denominated in Pakistani Rupees (PKR) and structured as a
+monthly gross salary comprising the following components:
+
+  Basic Salary:        50% of Gross Salary
+  House Rent Allowance (HRA):  25% of Basic Salary
+  Conveyance Allowance:        PKR 5,000 (fixed, all tiers)
+  Medical Allowance:           10% of Basic Salary
+  Special Allowance:           Remaining balance to make up gross salary
+
+5.2 Salary Bands by Tier (Monthly Gross)
+
+  Tier 1 – Executive Leadership:   PKR 500,000 – PKR 1,500,000+
+  Tier 2 – Senior Management:      PKR 250,000 – PKR 499,999
+  Tier 3 – Mid-Level Management:   PKR 120,000 – PKR 249,999
+  Tier 4 – Junior/Associate Staff: PKR 50,000  – PKR 119,999
+  Tier 5 – Support Staff/Interns:  PKR 25,000  – PKR 49,999
+
+Note: Actual salary within the band is determined by experience, qualifications,
+performance, and market benchmarks at the time of hiring or salary revision.
+
+5.3 Payroll Processing
+- Salaries are processed on the 28th of each month.
+- If the 28th falls on a weekend or public holiday, salary is processed on
+  the last working day before the 28th.
+- Salaries are credited directly to the employee's designated bank account.
+- Monthly payslips are generated and accessible through the HR self-service portal.
+
+5.4 Salary Deductions
+The following deductions may apply to monthly salary:
+  - Income Tax (as per applicable FBR tax slabs for the current fiscal year)
+  - EOBI (Employees' Old-Age Benefits Institution): 1% of minimum wage
+  - SESSI/PESSI (Social Security): as per provincial requirements
+  - Unpaid leave or AWOL deductions
+  - Loan repayment installments (if applicable)
+
+5.5 Annual Salary Increment
+- Salary increments are reviewed annually in July.
+- Increments are merit-based and linked to the annual performance review.
+- Standard increment range: 10% to 25% of current gross salary.
+- Employees rated "Below Expectations" in their annual review are not eligible
+  for an increment in that cycle.
+- Increment letters are issued by HR and require acknowledgment within 7 days.
+
+5.6 Performance Bonus
+- Annual performance bonuses are disbursed in December.
+- Bonus range: 1 month to 3 months of gross salary, depending on individual
+  performance rating and company profitability.
+  - "Exceptional" rating: Up to 3 months gross salary
+  - "Exceeds Expectations" rating: Up to 2 months gross salary
+  - "Meets Expectations" rating: Up to 1 month gross salary
+  - "Below Expectations" rating: No bonus
+- Employees must be on active payroll as of December 31 to receive the bonus.
+- Employees serving notice period are not eligible for the performance bonus.
+
+5.7 Eid Bonus
+All employees who have completed at least 6 months of service receive an Eid
+bonus equivalent to 1 month's basic salary, disbursed before Eid ul-Fitr.
+A second Eid bonus of 0.5 months' basic salary may be disbursed before Eid ul-Adha
+at the management's discretion.
+
+5.8 Salary Advance
+Employees may request a salary advance of up to 50% of their monthly gross
+salary. A maximum of 2 salary advances are permitted per calendar year.
+The advance will be recovered in 2 equal installments from subsequent salaries.
+Requests must be submitted to HR through the HR portal and approved by the
+Line Manager and Finance department.
+
+5.9 Expense Reimbursements
+Business-related expenses are reimbursed upon submission of original receipts
+and a completed expense report, approved by the Line Manager. Reimbursements
+are processed within 7 working days of approval.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 6: PROBATION PERIOD POLICY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+6.1 Duration
+All new employees (excluding re-hires and transfers) serve a probation period of
+3 months from their date of joining.
+
+6.2 Probation Extension
+If performance during probation is deemed unsatisfactory, the probation period
+may be extended by up to 3 additional months. The employee will be notified in
+writing at least 7 days before the original probation end date.
+
+6.3 Confirmation
+Upon successful completion of probation, the Line Manager submits a probation
+completion form to HR, and the employee receives a confirmation letter within
+7 working days.
+
+6.4 Leave During Probation
+Probationary employees are entitled to:
+  - Sick Leave: up to 5 days
+  - Casual Leave: up to 3 days
+  - Annual Leave is not applicable during probation (begins accruing after
+    confirmation).
+
+6.5 Termination During Probation
+Either party may terminate employment during probation with 2 weeks written
+notice or payment in lieu of notice.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 7: LEAVE POLICY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+7.1 Annual Leave (Earned Leave)
+- Full-time confirmed employees are entitled to 18 days of paid annual leave
+  per calendar year.
+- Annual leave accrues at 1.5 days per month starting from the confirmation date.
+- A maximum of 9 days may be carried forward to the next calendar year.
+- Carried-forward leave expires on March 31 of the following year.
+- Annual leave must be applied for at least 3 working days in advance through
+  the HR portal and approved by the Line Manager.
+
+7.2 Sick Leave
+- All confirmed employees are entitled to 10 days of paid sick leave per year.
+- Sick leave does not carry forward to the next calendar year.
+- For sick leave exceeding 2 consecutive days, a medical certificate from a
+  registered doctor is required.
+- Sick leave cannot be taken as an extension to annual leave.
+
+7.3 Casual Leave
+- All confirmed employees are entitled to 8 days of paid casual leave per year.
+- Casual leave is for urgent or unforeseen personal matters.
+- No more than 2 consecutive casual leave days may be taken at a time.
+- Casual leave does not carry forward.
+
+7.4 Maternity Leave
+- Female employees who have completed at least 6 months of service are entitled
+  to 12 weeks (84 days) of fully paid maternity leave.
+- Maternity leave must commence no earlier than 4 weeks before the expected
+  delivery date.
+- A medical certificate specifying the expected delivery date must be submitted
+  to HR at least 4 weeks before commencement of leave.
+- Maternity leave may be extended by up to 4 weeks as unpaid leave upon request.
+- Employees are guaranteed the same or equivalent position upon return.
+
+7.5 Paternity Leave
+- Male employees who have completed at least 6 months of service are entitled
+  to 10 days of paid paternity leave, to be taken within 30 days of the child's
+  birth.
+- A birth registration document must be submitted to HR upon return.
+
+7.6 Bereavement Leave
+In the event of the death of an immediate family member, employees are entitled
+to paid bereavement leave as follows:
+  - Spouse, child, or parent: 5 days
+  - Sibling, grandparent, or in-law: 3 days
+  - Other relatives: 1 day
+Supporting documentation may be requested by HR.
+
+7.7 Marriage Leave
+Employees are entitled to 5 days of paid marriage leave once during their
+tenure, applicable upon their own marriage. A marriage certificate must be
+submitted to HR within 30 days.
+
+7.8 Hajj Leave
+Muslim employees who have completed 5 or more years of service are entitled to
+up to 30 days of paid Hajj leave once in their entire tenure at the company.
+Application must be submitted at least 60 days in advance.
+
+7.9 Study/Exam Leave
+Employees pursuing approved professional certifications or higher education
+relevant to their role may apply for up to 5 days of study leave per year.
+Approval is subject to business needs and must be endorsed by the Line Manager
+and HR. Supporting enrollment documents are required.
+
+7.10 Leave Without Pay (LWP)
+Employees who have exhausted all applicable leave entitlements may apply for
+Leave Without Pay. LWP requires approval from the department head and HR.
+LWP periods do not count toward service tenure for increment or benefit purposes.
+
+7.11 Leave Application Process
+All leave applications must be submitted through the HR self-service portal.
+Emergency leave may be communicated via phone or message to the Line Manager,
+followed by a portal application on the next working day.
+Absence without approved leave will be treated as AWOL and result in salary
+deduction and possible disciplinary action.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 8: PERFORMANCE MANAGEMENT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+8.1 Performance Review Cycle
+Apex Solutions follows a bi-annual performance review system:
+  - Mid-Year Review: July (for feedback and goal adjustment)
+  - Annual Review: December/January (for ratings, increments, and bonuses)
+
+8.2 Performance Rating Scale
+  5 – Exceptional:         Consistently surpasses all goals; role model.
+  4 – Exceeds Expectations: Regularly goes beyond required performance.
+  3 – Meets Expectations:   Consistently meets all job requirements.
+  2 – Needs Improvement:    Partially meets expectations; improvement required.
+  1 – Below Expectations:   Fails to meet minimum job requirements.
+
+8.3 Goal Setting (OKRs)
+At the start of each year, employees and their Line Managers collaboratively
+define Objectives and Key Results (OKRs). Goals must be SMART:
+Specific, Measurable, Achievable, Relevant, and Time-bound.
+
+8.4 Performance Improvement Plan (PIP)
+Employees rated 2 or below for two consecutive reviews are placed on a formal
+Performance Improvement Plan (PIP). The PIP outlines:
+  - Clear performance expectations
+  - Timeline for improvement (typically 60–90 days)
+  - Support and resources provided
+  - Consequences of failure to improve
+Failure to meet PIP targets may result in termination.
+
+8.5 360-Degree Feedback
+Senior staff (Tier 2 and above) undergo 360-degree feedback, which includes
+input from peers, direct reports, and cross-functional stakeholders.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 9: TRAINING & DEVELOPMENT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+9.1 Learning & Development Budget
+Each confirmed employee is allocated an annual Learning & Development (L&D)
+budget as follows:
+  - Tier 1 & 2: PKR 150,000 per year
+  - Tier 3:     PKR 75,000 per year
+  - Tier 4:     PKR 40,000 per year
+  - Tier 5:     PKR 15,000 per year
+
+This budget covers approved courses, certifications, workshops, conferences,
+and relevant books.
+
+9.2 Mandatory Training
+All employees must complete the following mandatory training annually:
+  - Information Security Awareness
+  - Anti-Harassment & Workplace Ethics
+  - Data Privacy & Confidentiality
+  - Occupational Health & Safety
+
+9.3 Professional Certifications
+The company supports professional certification that benefits the organization.
+Upon completion of an approved certification, 100% of the exam fee is reimbursed.
+If an employee leaves within 12 months of certification reimbursement, 50% of
+the fee is recovered.
+
+9.4 Internal Knowledge Sharing
+Employees are encouraged to participate in monthly internal knowledge-sharing
+sessions (Lunch & Learn). Facilitating a session counts as a positive contribution
+in the performance review.
+
+9.5 Tuition Assistance
+Employees pursuing job-relevant degree programs may apply for tuition assistance
+of up to PKR 100,000 per year. Recipients must remain employed for at least
+1 year after receiving assistance, or repayment will be required.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 10: CODE OF CONDUCT & WORKPLACE ETHICS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+10.1 General Conduct
+All employees are expected to conduct themselves professionally and ethically
+at all times, whether on company premises, at client sites, or representing
+the company at external events.
+
+10.2 Conflict of Interest
+Employees must disclose any situation that creates, or could appear to create,
+a conflict of interest — including outside employment, business ownership, or
+personal relationships with vendors or clients. Disclosure must be made in
+writing to HR.
+
+10.3 Gifts & Entertainment Policy
+Employees may not accept gifts valued above PKR 5,000 from vendors, clients,
+or any third party connected with company business. Gifts exceeding this value
+must be declared to HR.
+
+10.4 Prohibition of Substance Abuse
+The use, possession, or distribution of alcohol or illegal substances on company
+premises, at company events, or while conducting company business is strictly
+prohibited and will result in immediate termination.
+
+10.5 Social Media Policy
+Employees must not:
+  - Post confidential company information on any social media platform.
+  - Make disparaging remarks about the company, colleagues, or clients online.
+  - Represent personal opinions as the company's official position.
+Violations may result in disciplinary action up to and including termination.
+
+10.6 Whistleblower Protection
+Employees who report genuine ethical violations or policy breaches in good faith
+are protected from retaliation. Reports may be made anonymously through the HR
+ethics hotline or directly to the Chief People Officer.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 11: DRESS CODE POLICY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+11.1 Standard Dress Code
+Monday to Thursday: Business Casual.
+  - Men: Collared shirts (polo or button-down), trousers or chinos, formal shoes.
+  - Women: Formal or semi-formal eastern or western attire, modest and professional.
+  - Jeans, sports shoes, and casual t-shirts are not permitted Monday–Thursday.
+
+11.2 Casual Fridays
+Employees may dress casually on Fridays. Smart jeans, neat t-shirts, and clean
+sneakers are permitted. Ripped clothing, beachwear, or overly revealing attire
+is not allowed at any time.
+
+11.3 Client-Facing Roles
+Employees regularly meeting clients are required to maintain business formal
+attire on all working days:
+  - Men: Full suit or formal trousers with blazer, tie optional.
+  - Women: Formal western or eastern business attire.
+
+11.4 Non-Compliance
+HR or Line Managers may ask employees to return home to change if attire is
+deemed inappropriate. Repeated violations are treated as a conduct matter.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 12: REMOTE WORK & WORK FROM HOME POLICY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+12.1 Eligibility
+Confirmed employees who have completed at least 6 months of service and whose
+roles are deemed compatible with remote work may apply for a Work From Home
+(WFH) arrangement.
+
+12.2 WFH Allowance
+- Employees with an approved permanent WFH arrangement receive a monthly
+  WFH allowance of PKR 5,000 to cover internet and utilities.
+
+12.3 Hybrid Work Model
+The company operates a hybrid model:
+  - Standard: 3 days in-office, 2 days WFH per week.
+  - Full Remote: Subject to management approval and role requirements.
+  - Full On-Site: Required for specific roles (e.g., receptionists, IT support).
+
+12.4 Expectations While Working Remotely
+- Employees must be available and reachable during core hours (10:00 AM – 4:00 PM).
+- Attendance is tracked through the HR portal daily check-in system.
+- Video camera must be on during all team meetings and client calls unless
+  there are technical difficulties.
+- The employee is responsible for maintaining a professional and private workspace.
+
+12.5 Equipment
+Company-issued laptops, dongles, and peripherals remain company property.
+Employees are responsible for the safety and maintenance of company equipment
+while working remotely.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 13: TRAVEL & EXPENSE POLICY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+13.1 Business Travel Authorization
+All business travel requires pre-approval from the department head and HR.
+A Travel Request Form must be submitted at least 5 business days before travel.
+
+13.2 Domestic Travel Allowances (Per Diem)
+  - Tier 1 & 2: PKR 10,000/day (accommodation + meals + local transport)
+  - Tier 3:     PKR 6,000/day
+  - Tier 4:     PKR 4,000/day
+
+13.3 International Travel Allowances (Per Diem in USD)
+  - Tier 1 & 2: USD 150/day
+  - Tier 3:     USD 100/day
+  - Tier 4:     USD 75/day
+  International economy class airfare is covered for all tiers unless the
+  flight exceeds 6 hours, in which case business class may be approved for
+  Tier 2 and above.
+
+13.4 Expense Claims
+All expense claims must be submitted within 7 working days of return from travel,
+accompanied by original receipts. Claims submitted after 14 days will not be
+reimbursed unless exceptional circumstances are approved by the CFO.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 14: HEALTH, SAFETY & WELLNESS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+14.1 Group Health Insurance
+All confirmed employees and their immediate dependents (spouse and up to 2 children)
+are covered under the company's Group Health Insurance policy.
+
+  Annual Coverage Limits:
+  - Tier 1 & 2: PKR 1,500,000 per person per year (inpatient + outpatient)
+  - Tier 3:     PKR 800,000 per person per year
+  - Tier 4 & 5: PKR 500,000 per person per year
+
+  Coverage includes:
+  - Hospitalization (room, board, ICU, surgery)
+  - Outpatient consultations (with co-pay of PKR 500 per visit)
+  - Maternity (up to PKR 100,000 per delivery after 10 months enrollment)
+  - Prescription medicine (at approved network pharmacies)
+  - Dental & Optical: up to PKR 25,000 per year per employee
+
+14.2 Occupational Health & Safety
+The company is committed to providing a safe working environment. All employees
+must comply with safety guidelines. Any accidents or unsafe conditions must be
+reported to HR or the Office Administrator immediately.
+
+14.3 Mental Health Support
+The company provides access to a confidential Employee Assistance Programme (EAP)
+which offers up to 6 free counseling sessions per year per employee through
+a third-party provider. Access details are available through HR.
+
+14.4 Wellness Initiatives
+- Annual health check-up: Company-sponsored for all employees (once per year).
+- On-site prayer room available for all employees.
+- Monthly wellness challenges with incentives.
+- Subsidized gym membership: PKR 3,000/month contribution by the company
+  for employees who enroll in an approved fitness facility.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 15: GRIEVANCE & DISCIPLINARY POLICY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+15.1 Grievance Procedure
+An employee who has a work-related complaint or concern should follow these steps:
+
+  Step 1 – Informal Resolution: Raise the issue verbally with the Line Manager.
+           Timeline: Within 5 working days of the incident.
+  Step 2 – Formal Grievance: If unresolved, submit a written grievance to HR.
+           HR will acknowledge receipt within 2 working days.
+  Step 3 – Investigation: HR investigates and may convene a Grievance Committee.
+           Investigation period: Up to 15 working days.
+  Step 4 – Decision: A written decision is communicated to the employee.
+  Step 5 – Appeal: The employee may appeal to the Chief People Officer within
+           5 working days of the decision.
+
+15.2 Disciplinary Process
+Minor Misconduct (first occurrence): Verbal warning documented by HR.
+Minor Misconduct (second occurrence): Written warning issued by HR.
+Minor Misconduct (third occurrence) or Major Misconduct: Show-cause notice,
+  hearing, and possible suspension or termination.
+
+Examples of Minor Misconduct:
+  - Repeated tardiness
+  - Dress code violations
+  - Failure to follow reasonable instructions
+
+Examples of Major Misconduct (may result in immediate termination):
+  - Theft or fraud
+  - Physical or verbal violence
+  - Harassment or discrimination
+  - Sharing confidential company information without authorization
+  - Falsification of records
+  - Substance abuse on premises
+
+15.3 Right to Representation
+During any formal disciplinary hearing, the employee has the right to be
+accompanied by a colleague of their choosing (not an external legal representative).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 16: TERMINATION, RESIGNATION & EXIT POLICY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+16.1 Resignation
+Employees wishing to resign must submit a formal written resignation letter to
+their Line Manager and HR through the HR portal.
+
+  Notice Period:
+  - Tier 1 & 2: 3 months
+  - Tier 3:     2 months
+  - Tier 4 & 5: 1 month
+  - Probationary employees: 2 weeks
+
+The company may waive the notice period at its discretion. Garden leave may be
+applied during the notice period at the company's discretion.
+
+16.2 Full & Final Settlement
+The full and final settlement, including all outstanding salary, leave encashment,
+and any approved dues, will be processed within 30 days of the last working day.
+Settlement is contingent on the completion of the exit clearance process.
+
+16.3 Leave Encashment
+Unutilized annual leave balance (up to the maximum carry-forward of 9 days) is
+encashed at the time of exit. Sick leave and casual leave are not encashable.
+
+16.4 Exit Clearance Process
+Before final settlement, the exiting employee must:
+  - Return all company property (laptop, ID card, access badge, keys)
+  - Complete a knowledge transfer as directed by the Line Manager
+  - Clear outstanding financial dues or advances
+  - Complete the exit interview with HR
+
+16.5 Termination by Company
+The company reserves the right to terminate employment for:
+  - Gross misconduct (without notice)
+  - Poor performance after a failed PIP
+  - Redundancy (with one month's notice or payment in lieu, plus severance as
+    per applicable law)
+  - Prolonged illness (beyond applicable leave entitlements)
+
+16.6 Severance Pay
+In cases of redundancy or company-initiated termination (non-disciplinary):
+  - 1–3 years of service: 1 month gross salary per year of service
+  - 3–5 years of service: 1.5 months gross salary per year of service
+  - 5+ years of service: 2 months gross salary per year of service
+
+16.7 Reference Letters
+The company will provide a factual reference letter to departing employees who
+have completed their notice period and exit clearance in good standing.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 17: CONFIDENTIALITY & DATA PROTECTION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+17.1 Confidential Information
+All business information is considered confidential unless explicitly stated
+otherwise. This includes but is not limited to:
+  - Client data, contracts, and communications
+  - Proprietary software and technical documentation
+  - Financial records and projections
+  - HR records and employee personal information
+  - Strategic plans and unreleased product details
+
+17.2 Non-Disclosure Agreement (NDA)
+All employees sign a Non-Disclosure Agreement as part of their employment
+contract. The NDA obligations continue for 2 years after the end of employment.
+
+17.3 Data Protection
+All employees must handle personal data of colleagues, clients, and stakeholders
+in accordance with applicable data protection legislation. Unauthorized access
+to, copying, or sharing of personal data is a disciplinary offence.
+
+17.4 Non-Compete Clause
+Tier 3 and above employees are subject to a non-compete clause for 6 months
+post-employment, restricting them from joining direct competitors or soliciting
+company clients in the same market segment.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 18: ANTI-HARASSMENT & EQUAL OPPORTUNITY POLICY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+18.1 Equal Opportunity Employer
+Apex Solutions is an equal opportunity employer. All employment decisions —
+including hiring, promotion, compensation, and termination — are made without
+discrimination on the basis of gender, age, religion, ethnicity, disability,
+marital status, or any other protected characteristic.
+
+18.2 Zero Tolerance for Harassment
+The company has a zero-tolerance policy for all forms of harassment, including:
+  - Sexual harassment (verbal, physical, or digital)
+  - Bullying or intimidation
+  - Discrimination based on protected characteristics
+  - Creating a hostile work environment
+
+18.3 Reporting Mechanism
+Harassment complaints may be reported to:
+  - The assigned HR Business Partner
+  - The Chief People Officer (for senior-level complaints)
+  - The anonymous ethics hotline: ethics@apexsolutions.pk
+All complaints are treated with strict confidentiality. Retaliation against
+a person who reports harassment in good faith is itself a disciplinary offence.
+
+18.4 Investigation & Outcome
+Harassment complaints are investigated within 21 working days. Substantiated
+complaints may result in disciplinary action up to and including dismissal.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 19: BENEFITS & PERQUISITES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+19.1 Provident Fund
+The company contributes 8.33% of the employee's basic salary to the company
+Provident Fund. An equal employee contribution is deducted from salary.
+Employees are vested after 2 years of service. Upon resignation or retirement,
+the accumulated fund (employer + employee contributions + returns) is disbursed.
+
+19.2 EOBI (Employees Old-Age Benefits)
+The company and employee both contribute to EOBI as mandated by the EOBI Act.
+Employees are eligible for old-age pension, invalidity pension, and survivors
+grant under the EOBI scheme.
+
+19.3 Company Vehicle Policy
+  - Tier 1: Company car provided (up to 1600cc) with fuel card.
+  - Tier 2: Car allowance of PKR 40,000/month + fuel card.
+  - Tier 3 (select roles): Car allowance of PKR 20,000/month.
+  - All other employees: Conveyance allowance (included in salary structure).
+
+19.4 Mobile Phone Allowance
+  - Tier 1 & 2: Company-issued mobile phone + monthly plan of PKR 5,000.
+  - Tier 3:     Mobile allowance of PKR 2,000/month.
+  - Tier 4:     Mobile allowance of PKR 1,000/month (for client-facing roles only).
+
+19.5 Laptop & Equipment
+All permanent employees are issued a company laptop and required peripherals.
+Equipment is returned to the company upon separation.
+
+19.6 Meal Subsidy
+A daily lunch subsidy of PKR 300 is provided to all on-site employees via the
+cafeteria card system, usable at the company's designated cafeteria partners.
+
+19.7 Long Service Awards
+  - 5 years of service:  Certificate + PKR 25,000 cash award
+  - 10 years of service: Certificate + PKR 75,000 cash award + 3 extra leave days
+  - 15 years of service: Certificate + PKR 150,000 cash award + 5 extra leave days
+
+19.8 Employee of the Month
+Each department nominates an outstanding employee monthly. The winner receives:
+  - Certificate of recognition
+  - PKR 5,000 gift voucher
+  - Feature on the company's internal communications and social media
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 20: COMMUNICATION & IT USAGE POLICY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+20.1 Email & Communication Tools
+The company's official communication tools are Microsoft Teams and corporate
+email (@apexsolutions.pk). Employees are expected to respond to internal
+messages within 4 business hours during working hours.
+
+20.2 Acceptable Use of IT Resources
+Company IT resources (computers, internet, email, software) are provided for
+business purposes. Incidental personal use is permitted provided it does not:
+  - Interfere with work productivity
+  - Involve illegal, offensive, or inappropriate content
+  - Consume excessive network bandwidth
+
+20.3 Prohibited IT Activities
+The following are strictly prohibited:
+  - Installing unauthorized software on company devices
+  - Disabling antivirus or security software
+  - Accessing, downloading, or distributing pirated content
+  - Attempting to bypass network security or access restricted systems
+  - Using company email for personal business or mass marketing
+
+20.4 Password & Account Security
+Employees must use strong passwords and must not share login credentials with
+anyone. Multi-factor authentication (MFA) is mandatory for all company systems.
+Passwords must be changed every 90 days.
+
+20.5 Data Storage
+Company data must be stored on approved cloud systems (e.g., Microsoft OneDrive,
+SharePoint) and not on personal drives, personal email accounts, or unauthorized
+cloud storage services.
+
+20.6 Monitoring
+Employees are informed that company-issued devices and network traffic may be
+monitored for security and compliance purposes. Employees have no expectation
+of privacy on company-owned systems.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ACKNOWLEDGEMENT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+By continuing employment at Apex Solutions Pvt. Ltd., all employees acknowledge
+that they have read, understood, and agree to comply with the policies set out
+in this handbook. Employees are encouraged to direct any questions or requests
+for clarification to their HR Business Partner or the HR department at:
+
+  Email:    hr@apexsolutions.pk
+  Phone:    +92-21-XXXX-XXXX
+  Location: HR Department, Ground Floor, Apex Tower, Karachi.
+
+This handbook is reviewed and updated annually. The most current version is
+always available on the HR self-service portal. Apex Solutions Pvt. Ltd.
+reserves the right to amend these policies at any time with reasonable notice.
+
+                        — Human Resources Department
+                          Apex Solutions Pvt. Ltd.
+                          Last Revised: January 2025
+
+================================================================================
