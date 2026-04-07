@@ -2,8 +2,10 @@ services:
   - type: web
     name: hr-policy-chatbot
     env: python
-    region: oregon
-    buildCommand: pip install -r requirements.txt
+    buildCommand: >
+      pip install -r requirements.txt &&
+      python -c "from sentence_transformers import SentenceTransformer; SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')" &&
+      python -c "import nltk; nltk.download('punkt_tab'); nltk.download('stopwords')"
     startCommand: gunicorn app:app --bind 0.0.0.0:$PORT --workers 1 --timeout 120
     envVars:
       - key: GROQ_API_KEY
