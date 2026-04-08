@@ -11,3 +11,5 @@ werkzeug==3.0.3
 numpy==1.26.4
 httpx==0.27.2
 gunicorn==22.0.0
+torch==2.2.2+cpu
+-f https://download.pytorch.org/whl/torch_stable.html

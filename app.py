@@ -37,8 +37,8 @@ app.config["MAX_CONTENT_LENGTH"] = config.MAX_UPLOAD_MB * 1024 * 1024
 # ── Initialise singletons ────────────────────────────────────
 logger.info("Initialising ingester …")
 ingester = DocumentIngester()
-ingester.ingest_directory(config.DATA_DIR)   # auto-ingest on startup
-
+# DO NOT auto-ingest on startup
+# ingester.ingest_directory(config.DATA_DIR)
 logger.info("Initialising chatbot …")
 chatbot = HRChatbot()
 
@@ -122,4 +122,6 @@ if __name__ == "__main__":
     print("  Open this link in your browser:")
     print("  http://localhost:5000")
     print("="*50 + "\n")
-    app.run(debug=True, host="0.0.0.0", port=5000)
+if __name__ == "__main__":
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host="0.0.0.0", port=port)
