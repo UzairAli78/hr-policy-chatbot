@@ -37,6 +37,9 @@ app.config["MAX_CONTENT_LENGTH"] = config.MAX_UPLOAD_MB * 1024 * 1024
 # ── Initialise singletons ────────────────────────────────────
 logger.info("Initialising ingester …")
 ingester = DocumentIngester()
+if os.environ.get("RUN_INGEST") == "true":
+    print("⚡ Running one-time ingestion...")
+    ingester.ingest_directory(config.DATA_DIR)
 # DO NOT auto-ingest on startup
 # ingester.ingest_directory(config.DATA_DIR)
 logger.info("Initialising chatbot …")
